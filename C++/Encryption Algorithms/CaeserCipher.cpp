@@ -1,3 +1,9 @@
+/*
+Caesar cipher: This is a simple encryption technique that involves 
+shifting each letter of a message by a certain number of places down 
+the alphabet. It can be implemented using basic arithmetic operations.
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;
