@@ -13,7 +13,6 @@ const App = () => {
 
   return (
     <div>
-      <h1>Hello, World!</h1>
       <p>The current time is {time.toLocaleTimeString()}.</p>
       <footer>Created by Peter Martens</footer>
     </div>
